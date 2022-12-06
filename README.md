@@ -4,7 +4,7 @@
 Provide more data vizalizations for investors to demonstrate that a bike-sharing program in Des Moines is a solid buisness proposal. In order to convice the stakeholders, show them the following:
 - Show the length of time that bikes are checked out for all riders and genders
 - Show the number of bike trips for all riders and genders for each hour of each day of the week
-- Show the number of bike trips for each type of user and gender for each day of the week.
+- Show the number of bike trips for each type of user and gender for each day of the week.</b>
 Here is a [link to dashboard](https://public.tableau.com/app/profile/kathryn.alicia.bottenberg/viz/Module15Challenge_16702902233190/AverageTripDuration)
 ## Results:
 ### Length of time that bikes are checked out by riders
