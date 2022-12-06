@@ -1,6 +1,6 @@
-# bikeSharing
+# BikeSharing
 
-##Purpose: 
+## Purpose: 
 Provide more data vizalizations for investors to demonstrate that a bike-sjaring program in Des Moines is a solid buisness proposal. In order to convice the stakeholders, show them the following:
 - Show the length of time that bikes are checked out for all riders and genders
 - Show the number of bike trips for all riders and genders for each hour of each day of the week
