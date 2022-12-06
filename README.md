@@ -11,7 +11,7 @@ Here is a [link to dashboard](https://public.tableau.com/app/profile/kathryn.ali
 From this visualization, we can see that all users stop riding the bikes by the first hour. We can also see most riders will stop riding after 10 minutes and then users drop exponentially thereafter.
 ![Image](Checkout_times_for_Users.png)
 ### Length of time that bikes are checks by gender
-From this visualization, we can see most riders idenify as male, followed by riders who identify as female, and last being unkown genders.
+From this visualization, we can see most riders identify as male, followed by riders who identify as female, and last being unkown genders.
 ![Image](Checkout_times_by_gender.png)
 ### Number of bike trips for all riders for each day of the week (by the hour)
 From this visualization, we can see a majority of the busiest times of day are between 8AM-9AM and 5PM-7PM during the Monday-Friday work week. The busiest day of the week during those times is Thursday.
