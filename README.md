@@ -24,7 +24,9 @@ From this visualization, we can see a majority of the riders identify as male an
 ![Image](User_trips_by_gender_by_weekday.png)
 ### Users by Gender
 From this visualization, we can confirm that most riders who use the app identify as male.
-
+![Image](users_by_gender_pie.png)
+### Average Trip Duration by Age
+From this visualization, we can see that there are obviously users who do not put the approproate birth year, which would explain the inconsistencies in averages before 1950. 
+![Image](tripduration_by_age.png)
 ## Summary:
 
-There is a high-level summary of the results and two additional visualizations are suggested for future analysis (5 pt)
