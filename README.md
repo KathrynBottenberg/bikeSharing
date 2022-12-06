@@ -5,7 +5,7 @@ Provide more data vizalizations for investors to demonstrate that a bike-sharing
 - Show the length of time that bikes are checked out for all riders and genders
 - Show the number of bike trips for all riders and genders for each hour of each day of the week
 - Show the number of bike trips for each type of user and gender for each day of the week.
-Here is a [link to dashboard](
+Here is a [link to dashboard](https://public.tableau.com/app/profile/kathryn.alicia.bottenberg/viz/Module15Challenge_16702902233190/AverageTripDuration)
 ## Results:
 ### Length of time that bikes are checked out by riders
 From this visualization, we can see that all users stop riding the bikes by the first hour. We can also see most riders will stop riding after 10 minutes and then users drop exponentially thereafter.
